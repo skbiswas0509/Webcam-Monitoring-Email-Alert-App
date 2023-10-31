@@ -1,6 +1,5 @@
 import cv2
 import time
-
 import glob
 import os
 from threading import Thread
